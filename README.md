@@ -1,4 +1,4 @@
-**Zapojení LED diod zapínaných při otevření skříně**
+#**Zapojení LED diod zapínaných při otevření skříně**
 
 Rozhodl jsem se zapojit jsi LED osvětlení do skříně jelikož aktuálně když otevřu skříň dvířkami zablokuji světlo a musím používat baterku abych ve skříni něco viděl.  viz foto:
 
