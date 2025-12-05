@@ -27,3 +27,5 @@ měnič 240V AC/12V DC
 **Zapojení** 
 
 <img width="1465" height="666" alt="Image" src="https://github.com/user-attachments/assets/478e6ead-f138-4caa-9cf1-64926a854000" />
+
+
