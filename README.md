@@ -1,4 +1,4 @@
-#**Zapojení LED diod zapínaných při otevření skříně**
+# Zapojení LED diod zapínaných při otevření skříně
 
 Rozhodl jsem se zapojit jsi LED osvětlení do skříně jelikož aktuálně když otevřu skříň dvířkami zablokuji světlo a musím používat baterku abych ve skříni něco viděl.  viz foto:
 
@@ -8,13 +8,13 @@ Rozhodl jsem se zapojit jsi LED osvětlení do skříně jelikož aktuálně kdy
 
 
 
-**Použité součástky**
+# Použité součástky a nástroje
 
 jistič 10A (pro jištění instalace mimo projekt) 
 
 jistič 6A
 
-rozpínací spínač
+rozpínací kontakt
 
 nulovou svorkovnici
 
@@ -22,10 +22,21 @@ plastová rozvodnicová skříň
 
 měnič 240V AC/12V DC 
 
-![Image](https://github.com/user-attachments/assets/265bce0b-678c-4d10-8bb8-94045f74510e)
+Slaněné vodiče 
 
-**Zapojení** 
+Dutinky
+
+příklepová vrtačka 
+
+dutinka Ø6
+
+vrtákØ6
+
+
+
+![Image](https://github.com/user-attachments/assets/265bce0b-678c-4d10-8bb8-94045f74510e)
+# Zapojení 
 
 <img width="1465" height="666" alt="Image" src="https://github.com/user-attachments/assets/478e6ead-f138-4caa-9cf1-64926a854000" />
 
-
+Přivedeme 230V/50Hz z el. sítě pomocí vodiče 2x1,5mm do roznaděče na jistič a N svorkovnici. (jedná se o síť TN-C) Dale propojíme pomocí hřebenu přívody na jističe(Jistič 10A slouží pro jištění jedné zasuvky a světla)  
